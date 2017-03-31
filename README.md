@@ -34,4 +34,4 @@ I also determined the **[top ten 311 complaints](https://github.com/pmendoza41/R
 | Sanitation Condition | 1648 |
 | Damaged Tree | 1564 | 
 
-As a fellow resident, I understand why street condition is the top complaint. There are _many_ potholes that need to be fixed in Rosebank (even in Staten Island in general). An image of the 311 complaints made by residents in Rosebank can be seen in the picture below.![here](https://github.com/pmendoza41/Rosebank/blob/master/311%20complaints%20clustered.png)
+As a fellow resident, I understand why street condition is the top complaint. There are _many_ potholes that need to be fixed in Rosebank (even in Staten Island in general). An image of the 311 complaints made by residents in Rosebank can be seen in the picture below. ![here](https://github.com/pmendoza41/Rosebank/blob/master/311%20complaints%20clustered.png)
