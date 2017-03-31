@@ -1,5 +1,3 @@
-## Rosebank
-
 ### Hello! 
 
 My neighborhood is _Rosebank_ in Staten Island. [Here](https://github.com/pmendoza41/Rosebank/blob/master/map.geojson) is an outline of Rosebank on a geojson map. 
@@ -34,7 +32,8 @@ I also determined the **top ten 311 complaints** made by Rosebank residents, whi
 * 3506 complaints for Street Light Condition
 * 3435 complaints for Water System
 * 3251 complaints for Illegal Parking
-* 2643 complaints for Missed Collection (All Materials) 2230 complaints for Noise - Residential
+* 2643 complaints for Missed Collection (All Materials) 
+* 2230 complaints for Noise - Residential
 * 1792 complaints for Blocked Driveway
 * 1648 complaints for Sanitation Condition _AND_
 * 1564 complaints for Damaged Tree
